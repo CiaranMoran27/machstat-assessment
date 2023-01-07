@@ -11,8 +11,7 @@ This repository contains all the files relevant to my 2022 Machine Learning and 
 Read on to explore the repository contents, technologies used and Assessment outcomes.
 
 **Quickview:**
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]() 
-
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/CiaranMoran27/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb) 
 
 <br>
 <br>
