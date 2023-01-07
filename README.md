@@ -14,9 +14,10 @@
 
 <h2 style="color: #001a79;">2. Overview</h2>
 <hr style="border-top: 1px solid #001a79;" />
-This repository contains all the files relevant to my Machine Learning and Statistics Assessment. The Assessment <br>is broken into 2 parts:<br>
+This repository contains all the files relevant to my Machine Learning and Statistics Assessment. The Assessment <br>is broken into 2 parts:<br><br>
 
-1. **Practical Exercies:**<br>(located in the practicals folder). These exercies explore the following:<br>
+1. **Practical Exercies:**(located in the practicals folder).<br>
+These exercies explore the following:<br><br>
     - Statistics: 
         - [The Lady Tasting Tea Problem](https://en.wikipedia.org/wiki/Lady_tasting_tea).
         - [T-tests](https://en.wikipedia.org/wiki/Student%27s_t-test).<br><br>
@@ -28,14 +29,14 @@ This repository contains all the files relevant to my Machine Learning and Stati
 <br>
 
 2. **Time Series Anomaly Detection with Keras**.<br>
-This part of the assessment explores time-series anomaly detection using a type of artificial neural network<br>
+- This part of the assessment explores time-series anomaly detection using a type of artificial neural network<br>
 called an autoencoder. The project levarages the [Keras documentation](https://keras.io/examples/timeseries/timeseries_anomaly_detection/), which describes the neural network<br>
 model used as a reconstruction convolutional autoencoder model. The idea here is that our model can learn<br>
 its own parameters in lower-dimensional space and re-construct itself to give us a metric on the "baseline"<br>
 noise that is considered acceptable. When the model is tested against a datset with anomalies the "baseline"<br>
 noise is exceeded and the data is labelled as anomalous. We will detail what role convolution plays in the<br>
 project and we will explore:
-    - How Nerual networks & Autoencoders work.
+    - How Neural Networks & Autoencoders work.
     - Data Standardization  & Transformation.
     - Activation Functions (ReLU and Sigmoid).
     - Optimisers (Adam and Gradient Descent).
@@ -74,7 +75,7 @@ project and we will explore:
 
 4. **requirements.txt file**: <br />  
     - This file contains the packages necessary to run the files in this repository (Note: Download Keras &<br>
-    TensorFlow seperately as per section 3 below).
+    TensorFlow seperately as per section 4 below).
     
 <br>
 <br>
