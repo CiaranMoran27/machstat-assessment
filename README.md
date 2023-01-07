@@ -7,6 +7,7 @@
 
 
 <h2 style="color: #001a79;">1. Quickview</h2>
+<hr style="border-top: 1px solid #001a79;" />
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/CiaranMoran27/machstat-assessment/blob/main/time_series_anomaly_detection.ipynb) 
 
