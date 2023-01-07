@@ -16,7 +16,7 @@
 <hr style="border-top: 1px solid #001a79;" />
 This repository contains all the files relevant to my Machine Learning and Statistics Assessment. The Assessment <br>is broken into 2 parts:<br><br>
 
-1. **Practical Exercies:**(located in the practicals folder).<br>
+1. **Practical Exercies:** (located in the practicals folder).<br>
 These exercies explore the following:<br><br>
     - Statistics: 
         - [The Lady Tasting Tea Problem](https://en.wikipedia.org/wiki/Lady_tasting_tea).
@@ -29,7 +29,7 @@ These exercies explore the following:<br><br>
 <br>
 
 2. **Time Series Anomaly Detection with Keras**.<br>
-- This part of the assessment explores time-series anomaly detection using a type of artificial neural network<br>
+This part of the assessment explores time-series anomaly detection using a type of artificial neural network<br>
 called an autoencoder. The project levarages the [Keras documentation](https://keras.io/examples/timeseries/timeseries_anomaly_detection/), which describes the neural network<br>
 model used as a reconstruction convolutional autoencoder model. The idea here is that our model can learn<br>
 its own parameters in lower-dimensional space and re-construct itself to give us a metric on the "baseline"<br>
